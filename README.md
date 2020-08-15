@@ -1,5 +1,5 @@
 ## Purpose
-This application reports the weather forecast for the next 5 hours according to the location entered on the field.
+This application reports the weather forecast for the next 5 hours according to the location entered on the input field.
 
 ## Setup:
 1. Clone repo
